@@ -17,7 +17,9 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software Developers focus on writing and maintaining code.
+QA Engineers ensure the software is tested and meets quality standards.
+Project Managers oversee the entire project, managing timelines, resources, and communication to ensure successful delivery.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs) and Version Control Systems (VCS) are vital tools in software development. IDEs, like Visual Studio Code and IntelliJ IDEA, provide an integrated workspace for writing, testing, and debugging code, enhancing productivity and code quality. VCS, such as Git and Subversion, manage changes to the codebase, facilitating collaboration, tracking history, and allowing for safe experimentation with branching and merging. Together, these tools streamline the development process, ensuring efficiency and effective teamwork.

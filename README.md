@@ -45,6 +45,7 @@ Software engineers face challenges such as keeping up with rapidly evolving tech
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Unit testing checks individual components of software to ensure they work correctly. Integration testing verifies that different components work together properly. System testing examines the entire application to confirm it meets all requirements. Acceptance testing is the final phase, where end users validate that the software meets their needs and is ready for deployment. Each type of testing plays a vital role in ensuring software quality and reliability.
 
 #Part 2: Introduction to AI and Prompt Engineering
 

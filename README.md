@@ -55,3 +55,16 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering involves crafting precise inputs to AI models to get accurate and relevant outputs. It's important because it improves the quality of AI responses, reduces ambiguity, saves time, allows customization, unlocks advanced capabilities, and enhances the overall user experience.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### Vague Prompt:
+"Write something about software engineering."
+
+### Improved Prompt:
+"Write a 500-word article on the benefits of using automated testing in Agile software development, with examples of tools and best practices."
+
+### Explanation:
+The improved prompt is more effective because it is **clear**, **specific**, and **concise**:
+- **Clear**: It precisely defines the task, avoiding any ambiguity.
+- **Specific**: It identifies the topic (automated testing), the context (Agile development), and the required content (tools and best practices).
+- **Concise**: It succinctly provides all necessary details, ensuring the response is targeted and relevant. 
+
+This approach enhances the quality and relevance of the output, making it easier for the writer to meet expectations.

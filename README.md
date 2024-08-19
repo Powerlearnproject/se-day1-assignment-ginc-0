@@ -9,6 +9,9 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+Structured Programming (1960s-1970s): Introduced clear control structures, improving code reliability and maintainability by moving away from disorganized "spaghetti code."
+Object-Oriented Programming (1980s-1990s): Enabled more natural modeling of real-world entities and code reuse through concepts like classes and inheritance, leading to more modular and maintainable software.
+Agile Methodologies (2000s-Present): Brought flexibility, iterative development, and close collaboration between developers and stakeholders, becoming a standard practice for responsive and continuous software improvement.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirement Analysis: Define the software's needs and requirements.
